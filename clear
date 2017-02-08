@@ -1,0 +1,7 @@
+welcome_controller.rb
+class WelcomeController < ApplicationCenter
+
+  def LadiesWhoLunch
+  end
+
+end
